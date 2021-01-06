@@ -8,8 +8,13 @@ h1{
 }
 .header-font-color{font-family: 'Bebas Neue', cursive;
     color: #363958;
-
-}   
+    }   
+.lower-middle-font-color{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    text-decoration: solid;
+    color: #363958
+}
 
 
 p{
@@ -48,28 +53,27 @@ section{
     position: absolute;
     font-family: 'Roboto', sans-serif;
 }
-.dream-area{
-    background-image: url(image/dream-bg.png);
-    background-repeat: no-repeat;
-    background-position: right;
-}
-.single-experience{
+
+.header-three-of-one{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
     height: 60%;
 }
-.experiance-area{
-    background-image: url(image/exp-bg.png);
-    background-repeat: no-repeat;
-    background-position: left;
+.latest-working-project-area{
+    background-color:#F8F9FC;
+    
 }
-#full-stack{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg yellow,orange);
-    border-image-slice: 1;
+
+#Power-x-gym{
+    width: 33%;  
+    
 }
-#learning-period{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg yellow,orange);
-    border-image-slice: 1;
+#Creative-agency{
+    width: 33%;    
+  
+}
+#hard-rock-music{
+    width: 33%;
+   
+    
 }
