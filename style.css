@@ -19,7 +19,14 @@ section{
     color: #363958;
     
 }
-
+.lets-chat{
+    float: left;;
+    font: #ffffff;
+    
+    text-align: center;
+    width: 100%;
+    background-image: url(image/footer.png);
+}
 
 p{
     font-family: 'Roboto', sans-serif;
