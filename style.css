@@ -34,10 +34,7 @@ p{
     width: 80%;
     height: 350px;
 }
-.top-banner{
-    background-image: url(image/top-banner.png);
-    background-repeat: no-repeat;
-}
+
 section{
     height: 400px;
     padding-bottom: 60px;
@@ -66,7 +63,7 @@ section{
    
 }
 .latest-working-project-area{
-    background-color:gold; 
+    background-color:#F8F9FC; 
     margin: 0%;
         
 }
@@ -74,8 +71,8 @@ section{
     width: 20px;
 }
 .footer{
-    height: 50px;
-    width: 2px;
+    
+    
 }
 
 #Power-x-gym{
