@@ -70,6 +70,13 @@ section{
     margin: 0%;
         
 }
+.footer-image-area{
+    width: 20px;
+}
+.footer{
+    height: 50px;
+    width: 2px;
+}
 
 #Power-x-gym{
      
@@ -84,8 +91,6 @@ section{
 }
 #hard-rock-music{
     
-    background-color: #FFFFFF;
-    
-   
+    background-color: #FFFFFF; 
     
 }
