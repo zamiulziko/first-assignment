@@ -63,7 +63,7 @@ p{
 }
 .latest-working-project-area{
     background-color:#F8F9FC; 
-    margin: 0%;
+    text-align: center;
         
 }
 .footer-image-area{
@@ -95,7 +95,4 @@ footer{
     margin: 0px;
     font-family: 'Bebas Neue', cursive;
 }
-.icon{
 
-    width: px;
-}
