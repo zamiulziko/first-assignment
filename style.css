@@ -1,19 +1,23 @@
 body{
-    margin: 0%;
     font-family: 'Redressed', cursive;
     font-family: 'Xanh Mono', monospace;
 }
 h1{
     font-size: 40px;
 }
+section{
+    height: 380px;
+    padding-bottom: 60px;
+    
+}
 .header-font-color{font-family: 'Bebas Neue', cursive;
     color: #363958;
     }   
 .lower-middle-font-color{
     font-family: 'Bebas Neue', cursive;
-    text-align: center;
-    text-decoration: solid;
-    color: #363958
+
+    color: #363958;
+    
 }
 
 
@@ -34,11 +38,6 @@ p{
     width: 80%;
     height: 350px;
 }
-
-section{
-    height: 400px;
-    padding-bottom: 60px;
-}
 .link-button{
     text-decoration: none;
     background-image: linear-gradient();
@@ -54,7 +53,7 @@ section{
 .header-three-of-one{
     
     border-radius: 10px;
-    height: 50%;
+    height: 60%;
     width: 25%;
     float: left;
     margin: 1%;
@@ -70,11 +69,6 @@ section{
 .footer-image-area{
     width: 20px;
 }
-.footer{
-    
-    
-}
-
 #Power-x-gym{
      
     background-color: #FFFFFF;
@@ -90,4 +84,18 @@ section{
     
     background-color: #FFFFFF; 
     
+}
+.lower-section{
+    overflow: hidden;
+    margin: 0 auto;
+}
+footer{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Bebas Neue', cursive;
+}
+.icon{
+
+    width: px;
 }

@@ -1,0 +1,50 @@
+body{
+    font-family: 'Redressed', cursive;
+    font-family: 'Xanh Mono', monospace;
+}
+h1{
+    font-size: 40px;
+}
+.main{
+    height: 300px;
+    padding-bottom: 60px;
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+}
+.main img{
+    width: 80%;
+    height: 350px;
+}
+.header-font-color{font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient();
+    background-color: #F86B61;
+    padding: 15px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+}
+.name-highlight{
+    color:#FF8B71;
+}
+.middle-font-color{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    color: #363958;
+    
+}
+.middle{overflow: hidden;}
+.middle-single-one{    
+    width: 32.33%;
+    float: left;
+}
+.first-image{
+    width: 100px;
+}
